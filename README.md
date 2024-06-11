@@ -38,7 +38,4 @@
 
 ## Контакты
 
-- Email: your_email@example.com
-- LinkedIn: [LinkedIn профиль](https://www.linkedin.com/in/your-linkedin-profile/)
-- Сайт/портфолио: [your-portfolio.com](https://www.your-portfolio.com)
-
+- Email: grachev.pd@phystech.edu
